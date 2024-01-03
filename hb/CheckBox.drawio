@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T08:38:15.901Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="5w2Mo3I0JJvxFtnfXMI3" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-03T08:41:17.079Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="_haNwc-96PizcpS910CY" version="22.1.16" type="github" pages="4">
   <diagram name="v1" id="fzIRlkugc9Y6fZbD00oU">
     <mxGraphModel dx="1877" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2061,7 +2061,7 @@
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-2" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qLUpWX64WJTUSQ4o18gx-1">
           <mxGeometry x="-0.3675" y="3" relative="1" as="geometry">
-            <mxPoint x="10" y="8" as="offset" />
+            <mxPoint x="104" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-3" value="(DSMON_LS1==1)&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2074,12 +2074,12 @@
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-5" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qLUpWX64WJTUSQ4o18gx-4">
           <mxGeometry x="-0.0382" relative="1" as="geometry">
-            <mxPoint x="-332" y="-210" as="offset" />
+            <mxPoint x="-281" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-6" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qLUpWX64WJTUSQ4o18gx-4">
           <mxGeometry x="-0.6016" y="3" relative="1" as="geometry">
-            <mxPoint x="-8" y="-37" as="offset" />
+            <mxPoint x="15" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-7" value="PWM==100?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2094,7 +2094,7 @@
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-9" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qLUpWX64WJTUSQ4o18gx-8">
           <mxGeometry x="-0.36" y="3" relative="1" as="geometry">
-            <mxPoint x="167" y="60" as="offset" />
+            <mxPoint x="-6" y="1098" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
@@ -3013,7 +3013,7 @@
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-226" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qLUpWX64WJTUSQ4o18gx-225">
           <mxGeometry x="-0.6429" y="1" relative="1" as="geometry">
-            <mxPoint x="-7" y="-20" as="offset" />
+            <mxPoint x="203" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-227" value="(DSMON_LS2==1)&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3038,7 +3038,7 @@
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-231" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qLUpWX64WJTUSQ4o18gx-230">
           <mxGeometry x="-0.7613" relative="1" as="geometry">
-            <mxPoint y="18" as="offset" />
+            <mxPoint x="39" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qLUpWX64WJTUSQ4o18gx-236" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
@@ -3550,7 +3550,7 @@
           <mxGeometry x="-3257" y="475" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K6qb5AAcDg0dlO04OpO8-14" value="指令=刹车？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3010" y="-150" width="170" height="70" as="geometry" />
+          <mxGeometry x="-3257" y="-140" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
